@@ -1,0 +1,206 @@
+celebrity_id,canonical_name,folder_slug,domain,sub_domain,raw_staging_path,raw_image_count,processed_image_count
+celeb_0001,Aamir Khan,aamir_khan,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_0\Aamir_Khan,192,80
+celeb_0002,Abhay Deol,abhay_deol,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_0\Abhay_Deol,61,61
+celeb_0003,Abhishek Bachchan,abhishek_bachchan,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_0\Abhishek_Bachchan,73,73
+celeb_0004,Aftab Shivdasani,aftab_shivdasani,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_0\Aftab_Shivdasani,68,68
+celeb_0005,Aishwarya Rai,aishwarya_rai,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_0\Aishwarya_Rai,125,80
+celeb_0006,Ajay Devgn,ajay_devgn,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_0\Ajay_Devgn,80,80
+celeb_0007,Akshay Kumar,akshay_kumar,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_0\Akshay_Kumar,82,80
+celeb_0008,Akshaye Khanna,akshaye_khanna,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_0\Akshaye_Khanna,62,62
+celeb_0009,Alia Bhatt,alia_bhatt,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_0\Alia_Bhatt,125,80
+celeb_0010,Ameesha Patel,ameesha_patel,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_0\Ameesha_Patel,82,80
+celeb_0011,Amitabh Bachchan,amitabh_bachchan,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_0\Amitabh_Bachchan,92,80
+celeb_0012,Amrita Rao,amrita_rao,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_0\Amrita_Rao,87,80
+celeb_0013,Amy Jackson,amy_jackson,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_0\Amy_Jackson,83,80
+celeb_0014,Anil Kapoor,anil_kapoor,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_0\Anil_Kapoor,74,74
+celeb_0015,Anushka Sharma,anushka_sharma,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_0\Anushka_Sharma,105,80
+celeb_0016,Anushka Shetty,anushka_shetty,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_0\Anushka_Shetty,120,80
+celeb_0017,Arjun Kapoor,arjun_kapoor,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_0\Arjun_Kapoor,76,76
+celeb_0018,Arjun Rampal,arjun_rampal,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_0\Arjun_Rampal,65,65
+celeb_0019,Arshad Warsi,arshad_warsi,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_0\Arshad_Warsi,71,71
+celeb_0020,Asin,asin,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_0\Asin,104,80
+celeb_0021,Ayushmann Khurrana,ayushmann_khurrana,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_0\Ayushmann_Khurrana,85,80
+celeb_0022,Bhumi Pednekar,bhumi_pednekar,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_0\Bhumi_Pednekar,68,68
+celeb_0023,Bipasha Basu,bipasha_basu,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_0\Bipasha_Basu,100,80
+celeb_0024,Bobby Deol,bobby_deol,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_0\Bobby_Deol,60,60
+celeb_0025,Deepika Padukone,deepika_padukone,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_0\Deepika_Padukone,130,80
+celeb_0026,Disha Patani,disha_patani,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_0\Disha_Patani,111,80
+celeb_0027,Emraan Hashmi,emraan_hashmi,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_0\Emraan_Hashmi,71,71
+celeb_0028,Esha Gupta,esha_gupta,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_0\Esha_Gupta,86,80
+celeb_0029,Farhan Akhtar,farhan_akhtar,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_0\Farhan_Akhtar,62,62
+celeb_0030,Govinda,govinda,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_0\Govinda,61,61
+celeb_0031,Hrithik Roshan,hrithik_roshan,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_0\Hrithik_Roshan,80,80
+celeb_0032,Huma Qureshi,huma_qureshi,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_0\Huma_Qureshi,97,80
+celeb_0033,Ileana Dcruz,ileana_dcruz,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_0\Ileana_DCruz,102,80
+celeb_0034,Irrfan Khan,irrfan_khan,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_1\Irrfan_Khan,77,77
+celeb_0035,Jacqueline Fernandez,jacqueline_fernandez,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_1\Jacqueline_Fernandez,114,80
+celeb_0036,John Abraham,john_abraham,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_1\John_Abraham,82,80
+celeb_0037,Juhi Chawla,juhi_chawla,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_1\Juhi_Chawla,78,78
+celeb_0038,Kajal Aggarwal,kajal_aggarwal,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_1\Kajal_Aggarwal,123,80
+celeb_0039,Kajol,kajol,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_1\Kajol,96,80
+celeb_0040,Kangana Ranaut,kangana_ranaut,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_1\Kangana_Ranaut,96,80
+celeb_0041,Kareena Kapoor,kareena_kapoor,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_1\Kareena_Kapoor,100,80
+celeb_0042,Karisma Kapoor,karisma_kapoor,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_1\Karisma_Kapoor,92,80
+celeb_0043,Kartik Aaryan,kartik_aaryan,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_1\Kartik_Aaryan,84,80
+celeb_0044,Katrina Kaif,katrina_kaif,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_1\Katrina_Kaif,99,80
+celeb_0045,Kiara Advani,kiara_advani,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_1\Kiara_Advani,96,80
+celeb_0046,Kriti Kharbanda,kriti_kharbanda,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_1\Kriti_Kharbanda,106,80
+celeb_0047,Kriti Sanon,kriti_sanon,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_1\Kriti_Sanon,116,80
+celeb_0048,Kunal Khemu,kunal_khemu,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_1\Kunal_Khemu,52,52
+celeb_0049,Lara Dutta,lara_dutta,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_1\Lara_Dutta,67,67
+celeb_0050,Madhuri Dixit,madhuri_dixit,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_1\Madhuri_Dixit,100,80
+celeb_0051,Manoj Bajpayee,manoj_bajpayee,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_1\Manoj_Bajpayee,65,65
+celeb_0052,Mrunal Thakur,mrunal_thakur,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_1\Mrunal_Thakur,82,80
+celeb_0053,Nana Patekar,nana_patekar,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_1\Nana_Patekar,48,48
+celeb_0054,Nargis Fakhri,nargis_fakhri,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_1\Nargis_Fakhri,101,80
+celeb_0055,Naseeruddin Shah,naseeruddin_shah,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_1\Naseeruddin_Shah,58,58
+celeb_0056,Nushrat Bharucha,nushrat_bharucha,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_1\Nushrat_Bharucha,78,78
+celeb_0057,Paresh Rawal,paresh_rawal,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_1\Paresh_Rawal,61,61
+celeb_0058,Parineeti Chopra,parineeti_chopra,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_1\Parineeti_Chopra,92,80
+celeb_0059,Pooja Hegde,pooja_hegde,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_1\Pooja_Hegde,114,80
+celeb_0060,Prabhas,prabhas,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_1\Prabhas,92,80
+celeb_0061,Prachi Desai,prachi_desai,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_1\Prachi_Desai,90,80
+celeb_0062,Preity Zinta,preity_zinta,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_1\Preity_Zinta,106,80
+celeb_0063,Priyanka Chopra,priyanka_chopra,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_1\Priyanka_Chopra,109,80
+celeb_0064,R Madhavan,r_madhavan,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_1\R_Madhavan,78,78
+celeb_0065,Rajkummar Rao,rajkummar_rao,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_1\Rajkummar_Rao,73,73
+celeb_0066,Ranbir Kapoor,ranbir_kapoor,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces_1\Ranbir_Kapoor,85,80
+celeb_0067,Randeep Hooda,randeep_hooda,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces2\Randeep_Hooda,74,74
+celeb_0068,Rani Mukerji,rani_mukerji,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces2\Rani_Mukerji,83,80
+celeb_0069,Ranveer Singh,ranveer_singh,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces2\Ranveer_Singh,95,80
+celeb_0070,Richa Chadda,richa_chadda,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces2\Richa_Chadda,82,80
+celeb_0071,Riteish Deshmukh,riteish_deshmukh,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces2\Riteish_Deshmukh,63,63
+celeb_0072,Saif Ali Khan,saif_ali_khan,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces2\Saif_Ali_Khan,68,68
+celeb_0073,Salman Khan,salman_khan,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces2\Salman_Khan,94,80
+celeb_0074,Sanjay Dutt,sanjay_dutt,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces2\Sanjay_Dutt,81,80
+celeb_0075,Sara Ali Khan,sara_ali_khan,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces2\Sara_Ali_Khan,88,80
+celeb_0076,Shah Rukh Khan,shah_rukh_khan,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces2\Shah_Rukh_Khan,95,80
+celeb_0077,Shahid Kapoor,shahid_kapoor,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces2\Shahid_Kapoor,91,80
+celeb_0078,Shilpa Shetty,shilpa_shetty,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces2\Shilpa_Shetty,110,80
+celeb_0079,Shraddha Kapoor,shraddha_kapoor,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces2\Shraddha_Kapoor,90,80
+celeb_0080,Shreyas Talpade,shreyas_talpade,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces2\Shreyas_Talpade,43,43
+celeb_0081,Shruti Haasan,shruti_haasan,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces2\Shruti_Haasan,100,80
+celeb_0082,Sidharth Malhotra,sidharth_malhotra,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces2\Sidharth_Malhotra,72,72
+celeb_0083,Sonakshi Sinha,sonakshi_sinha,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces2\Sonakshi_Sinha,92,80
+celeb_0084,Sonam Kapoor,sonam_kapoor,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces2\Sonam_Kapoor,93,80
+celeb_0085,Suniel Shetty,suniel_shetty,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces2\Suniel_Shetty,48,48
+celeb_0086,Sunny Deol,sunny_deol,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces2\Sunny_Deol,61,61
+celeb_0087,Sushant Singh Rajput,sushant_singh_rajput,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces2\Sushant_Singh_Rajput,75,75
+celeb_0088,Taapsee Pannu,taapsee_pannu,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces2\Taapsee_Pannu,100,80
+celeb_0089,Tabu,tabu,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces2\Tabu,87,80
+celeb_0090,Tamannaah Bhatia,tamannaah_bhatia,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces2\Tamannaah_Bhatia,118,80
+celeb_0091,Tiger Shroff,tiger_shroff,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces2\Tiger_Shroff,69,69
+celeb_0092,Tusshar Kapoor,tusshar_kapoor,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces2\Tusshar_Kapoor,48,48
+celeb_0093,Uday Chopra,uday_chopra,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces2\Uday_Chopra,50,50
+celeb_0094,Vaani Kapoor,vaani_kapoor,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces2\Vaani_Kapoor,109,80
+celeb_0095,Varun Dhawan,varun_dhawan,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces2\Varun_Dhawan,98,80
+celeb_0096,Vicky Kaushal,vicky_kaushal,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces2\Vicky_Kaushal,66,66
+celeb_0097,Vidya Balan,vidya_balan,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces2\Vidya_Balan,105,80
+celeb_0098,Vivek Oberoi,vivek_oberoi,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces2\Vivek_Oberoi,58,58
+celeb_0099,Yami Gautam,yami_gautam,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces2\Yami_Gautam,105,80
+celeb_0100,Zareen Khan,zareen_khan,Bollywood,Cinema,E:\Python Projects\Celebrity_Face_matcher\data\staging\Bollywood_celeb_face_localized\bollywood_celeb_faces2\Zareen_Khan,103,80
+celeb_0101,Adriana Lima,adriana_lima,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Adriana Lima,213,80
+celeb_0102,Alex Lawther,alex_lawther,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Alex Lawther,152,80
+celeb_0103,Alexandra Daddario,alexandra_daddario,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Alexandra Daddario,225,80
+celeb_0104,Alvaro Morte,alvaro_morte,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Alvaro Morte,139,80
+celeb_0105,Alycia Dabnem Carey,alycia_dabnem_carey,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_alycia dabnem carey,211,80
+celeb_0106,Amanda Crew,amanda_crew,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Amanda Crew,117,80
+celeb_0107,Amber Heard,amber_heard,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_amber heard,218,80
+celeb_0108,Andy Samberg,andy_samberg,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Andy Samberg,196,80
+celeb_0109,Anne Hathaway,anne_hathaway,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Anne Hathaway,203,80
+celeb_0110,Anthony Mackie,anthony_mackie,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Anthony Mackie,124,80
+celeb_0111,Avril Lavigne,avril_lavigne,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Avril Lavigne,162,80
+celeb_0112,Barack Obama,barack_obama,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_barack obama,119,80
+celeb_0113,Barbara Palvin,barbara_palvin,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_barbara palvin,197,80
+celeb_0114,Ben Affleck,ben_affleck,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Ben Affleck,126,80
+celeb_0115,Bill Gates,bill_gates,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Bill Gates,122,80
+celeb_0116,Bobby Morley,bobby_morley,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Bobby Morley,138,80
+celeb_0117,Brenton Thwaites,brenton_thwaites,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Brenton Thwaites,209,80
+celeb_0118,Brian J. Smith,brian_j._smith,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Brian J. Smith,102,80
+celeb_0119,Brie Larson,brie_larson,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Brie Larson,169,80
+celeb_0120,Camila Mendes,camila_mendes,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_camila mendes,162,80
+celeb_0121,Chris Evans,chris_evans,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Chris Evans,166,80
+celeb_0122,Chris Hemsworth,chris_hemsworth,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Chris Hemsworth,159,80
+celeb_0123,Chris Pratt,chris_pratt,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Chris Pratt,176,80
+celeb_0124,Christian Bale,christian_bale,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Christian Bale,154,80
+celeb_0125,Cristiano Ronaldo,cristiano_ronaldo,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Cristiano Ronaldo,98,80
+celeb_0126,Danielle Panabaker,danielle_panabaker,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Danielle Panabaker,181,80
+celeb_0127,Dominic Purcell,dominic_purcell,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Dominic Purcell,146,80
+celeb_0128,Dwayne Johnson,dwayne_johnson,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Dwayne Johnson,141,80
+celeb_0129,Eliza Taylor,eliza_taylor,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Eliza Taylor,162,80
+celeb_0130,Elizabeth Lail,elizabeth_lail,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Elizabeth Lail,158,80
+celeb_0131,Elizabeth Olsen,elizabeth_olsen,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_elizabeth olsen,221,80
+celeb_0132,Ellen Page,ellen_page,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_ellen page,188,80
+celeb_0133,Elon Musk,elon_musk,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_elon musk,135,80
+celeb_0134,Emilia Clarke,emilia_clarke,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Emilia Clarke,210,80
+celeb_0135,Emma Stone,emma_stone,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Emma Stone,139,80
+celeb_0136,Emma Watson,emma_watson,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Emma Watson,211,80
+celeb_0137,Gal Gadot,gal_gadot,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_gal gadot,199,80
+celeb_0138,Grant Gustin,grant_gustin,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_grant gustin,183,80
+celeb_0139,Gwyneth Paltrow,gwyneth_paltrow,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Gwyneth Paltrow,187,80
+celeb_0140,Henry Cavil,henry_cavil,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Henry Cavil,195,80
+celeb_0141,Hugh Jackman,hugh_jackman,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Hugh Jackman,179,80
+celeb_0142,Inbar Lavi,inbar_lavi,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Inbar Lavi,127,80
+celeb_0143,Irina Shayk,irina_shayk,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Irina Shayk,156,80
+celeb_0144,Jake Mcdorman,jake_mcdorman,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Jake Mcdorman,159,80
+celeb_0145,Jason Momoa,jason_momoa,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Jason Momoa,184,80
+celeb_0146,Jeff Bezos,jeff_bezos,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_jeff bezos,106,80
+celeb_0147,Jennifer Lawrence,jennifer_lawrence,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Jennifer Lawrence,180,80
+celeb_0148,Jeremy Renner,jeremy_renner,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Jeremy Renner,167,80
+celeb_0149,Jessica Barden,jessica_barden,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Jessica Barden,141,80
+celeb_0150,Jimmy Fallon,jimmy_fallon,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Jimmy Fallon,113,80
+celeb_0151,Johnny Depp,johnny_depp,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Johnny Depp,182,80
+celeb_0152,Josh Radnor,josh_radnor,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Josh Radnor,117,80
+celeb_0153,Katharine Mcphee,katharine_mcphee,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Katharine Mcphee,177,80
+celeb_0154,Katherine Langford,katherine_langford,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Katherine Langford,226,80
+celeb_0155,Keanu Reeves,keanu_reeves,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Keanu Reeves,160,80
+celeb_0156,Kiernen Shipka,kiernen_shipka,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_kiernen shipka,203,80
+celeb_0157,Krysten Ritter,krysten_ritter,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Krysten Ritter,171,80
+celeb_0158,Leonardo Dicaprio,leonardo_dicaprio,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Leonardo DiCaprio,237,80
+celeb_0159,Lili Reinhart,lili_reinhart,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Lili Reinhart,150,80
+celeb_0160,Lindsey Morgan,lindsey_morgan,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Lindsey Morgan,169,80
+celeb_0161,Lionel Messi,lionel_messi,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Lionel Messi,86,80
+celeb_0162,Logan Lerman,logan_lerman,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Logan Lerman,212,80
+celeb_0163,Madelaine Petsch,madelaine_petsch,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Madelaine Petsch,192,80
+celeb_0164,Maisie Williams,maisie_williams,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Maisie Williams,193,80
+celeb_0165,Margot Robbie,margot_robbie,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_margot robbie,221,80
+celeb_0166,Maria Pedraza,maria_pedraza,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Maria Pedraza,122,80
+celeb_0167,Marie Avgeropoulos,marie_avgeropoulos,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Marie Avgeropoulos,161,80
+celeb_0168,Mark Ruffalo,mark_ruffalo,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Mark Ruffalo,178,80
+celeb_0169,Mark Zuckerberg,mark_zuckerberg,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Mark Zuckerberg,95,80
+celeb_0170,Megan Fox,megan_fox,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Megan Fox,209,80
+celeb_0171,Melissa Fumero,melissa_fumero,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_melissa fumero,154,80
+celeb_0172,Miley Cyrus,miley_cyrus,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Miley Cyrus,178,80
+celeb_0173,Millie Bobby Brown,millie_bobby_brown,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Millie Bobby Brown,191,80
+celeb_0174,Morena Baccarin,morena_baccarin,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Morena Baccarin,175,80
+celeb_0175,Morgan Freeman,morgan_freeman,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Morgan Freeman,105,80
+celeb_0176,Nadia Hilker,nadia_hilker,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Nadia Hilker,133,80
+celeb_0177,Natalie Dormer,natalie_dormer,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Natalie Dormer,198,80
+celeb_0178,Natalie Portman,natalie_portman,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Natalie Portman,166,80
+celeb_0179,Neil Patrick Harris,neil_patrick_harris,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Neil Patrick Harris,116,80
+celeb_0180,Pedro Alonso,pedro_alonso,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Pedro Alonso,125,80
+celeb_0181,Penn Badgley,penn_badgley,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Penn Badgley,171,80
+celeb_0182,Rami Malek,rami_malek,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Rami Malek,160,80
+celeb_0183,Rebecca Ferguson,rebecca_ferguson,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Rebecca Ferguson,178,80
+celeb_0184,Richard Harmon,richard_harmon,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Richard Harmon,148,80
+celeb_0185,Rihanna,rihanna,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Rihanna,133,80
+celeb_0186,Robert De Niro,robert_de_niro,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Robert De Niro,156,80
+celeb_0187,Robert Downey Jr,robert_downey_jr,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Robert Downey Jr,233,80
+celeb_0188,Sarah Wayne Callies,sarah_wayne_callies,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Sarah Wayne Callies,159,80
+celeb_0189,Scarlett Johansson,scarlett_johansson,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_scarlett johansson,201,80
+celeb_0190,Selena Gomez,selena_gomez,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Selena Gomez,186,80
+celeb_0191,Shakira Isabel Mebarak,shakira_isabel_mebarak,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Shakira Isabel Mebarak,154,80
+celeb_0192,Sophie Turner,sophie_turner,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Sophie Turner,204,80
+celeb_0193,Stephen Amell,stephen_amell,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Stephen Amell,159,80
+celeb_0194,Taylor Swift,taylor_swift,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Taylor Swift,131,80
+celeb_0195,Tom Cruise,tom_cruise,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Tom Cruise,192,80
+celeb_0196,Tom Ellis,tom_ellis,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_tom ellis,180,80
+celeb_0197,Tom Hardy,tom_hardy,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Tom Hardy,198,80
+celeb_0198,Tom Hiddleston,tom_hiddleston,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Tom Hiddleston,181,80
+celeb_0199,Tom Holland,tom_holland,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Tom Holland,189,80
+celeb_0200,Tuppence Middleton,tuppence_middleton,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Tuppence Middleton,133,80
+celeb_0201,Ursula Corbero,ursula_corbero,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Ursula Corbero,167,80
+celeb_0202,Wentworth Miller,wentworth_miller,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Wentworth Miller,179,80
+celeb_0203,Zac Efron,zac_efron,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Zac Efron,191,80
+celeb_0204,Zendaya,zendaya,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Zendaya,138,80
+celeb_0205,Zoe Saldana,zoe_saldana,Hollywood_Global,Entertainment_Tech,E:\Python Projects\Celebrity_Face_matcher\data\staging\105_classes_pins_dataset\pins_Zoe Saldana,186,80
