@@ -93,13 +93,9 @@ if uploaded_file is not None:
                         clean_path = clean_path[clean_path.find("data/"):]
                         
                     matched_img = Image.open(clean_path)
-                        
-            # Convert Windows absolute path to Linux relative path
-                    clean_path = matched_image_path.replace("\\", "/")
-                    if "data/" in clean_path:
-                        clean_path = clean_path[clean_path.find("data/"):]
-                        
-                    matched_img = Image.open(clean_path)
                     
-                    # Make sure you still have a line to actually display the image!
-                    st.image(matched_img, caption="Your Celebrity Match!")
+                    with col2:
+                        st.image(matched_img, caption=f"Match: {matched_celeb_name}", use_container_width=True)
+
+            except Exception as e:
+                st.error(f"An error occurred during processing: {e}")
