@@ -88,11 +88,11 @@ if uploaded_file is not None:
                     matched_celeb_name = matched_celeb_slug.replace("_", " ").title()
                     
                     # 7. Display Match
-                    matched_img = Image.open(matched_image_path)
-                    
-                    with col2:
-                        st.image(matched_img, caption=f"Match: {matched_celeb_name}", use_container_width=True)
-                        st.success(f"It's a match! You look like **{matched_celeb_name}**.")
+                    clean_path = matched_image_path.replace("\\", "/")
+                    if "data/" in clean_path:
+                        clean_path = clean_path[clean_path.find("data/"):]
+                        
+                    matched_img = Image.open(clean_path)
                         
             except Exception as e:
                 st.error(f"An error occurred during processing: {e}")
