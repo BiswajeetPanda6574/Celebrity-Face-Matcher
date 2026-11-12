@@ -97,7 +97,7 @@ if uploaded_file is not None:
                     matched_img = Image.open(clean_path)
                     
                     with col2:
-                        st.image(matched_img, caption=f"Match: It seems like {matched_celeb_name}", use_container_width=True)
+                        st.image(matched_img, caption=f"It seems like {matched_celeb_name}", use_container_width=True)
 
             except Exception as e:
                 st.error(f"An error occurred during processing: {e}")
