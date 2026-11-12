@@ -83,19 +83,21 @@ if uploaded_file is not None:
                     index_pos = sorted(list(enumerate(similarity)), reverse=True, key=lambda x: x[1])[0][0]
                     matched_image_path = filenames[index_pos]
                     
-                    # 6. Extract Celebrity Name
-                    matched_celeb_slug = os.path.basename(os.path.dirname(matched_image_path))
-                    matched_celeb_name = matched_celeb_slug.replace("_", " ").title()
-                    
-                    # 7. Display Match
+                    # 6. Clean Path and Extract Celebrity Name
+                    # Convert Windows absolute path to Linux relative path first
                     clean_path = matched_image_path.replace("\\", "/")
                     if "data/" in clean_path:
                         clean_path = clean_path[clean_path.find("data/"):]
-                        
+                    
+                    # Grab the folder name directly from the cleaned Linux path
+                    matched_celeb_slug = clean_path.split("/")[-2]
+                    matched_celeb_name = matched_celeb_slug.replace("_", " ").title()
+                    
+                    # 7. Display Match
                     matched_img = Image.open(clean_path)
                     
                     with col2:
-                        st.image(matched_img, caption=f"Match: {matched_celeb_name}", use_container_width=True)
+                        st.image(matched_img, caption=f"Match: It seems like {matched_celeb_name}", use_container_width=True)
 
             except Exception as e:
                 st.error(f"An error occurred during processing: {e}")
